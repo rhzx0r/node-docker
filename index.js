@@ -66,7 +66,7 @@ app.use(
       resave: false,
       saveUninitialized: false,
       httpOnly: true,
-      maxAge: 60000,
+      maxAge: 10*60*1000,
     },
     secret: SESSION_SECRET,
   })
