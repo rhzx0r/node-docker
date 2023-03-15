@@ -5,4 +5,4 @@ y añadido el uso de CORS
 
 Link del curso:
 
-[Link text](https://youtu.be/9zUHg7xjIqQ)
+[Link](https://youtu.be/9zUHg7xjIqQ)
